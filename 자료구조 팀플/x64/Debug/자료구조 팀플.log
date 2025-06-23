@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\홍성호\Desktop\상상 창고\25년도_상반기_기획서\Project.c_C\함께해요_우당탕탕\자료구조 팀플\자료구조 팀플\main.cpp(1205,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍성호\Desktop\상상 창고\25년도_상반기_기획서\Project.c_C\함께해요_우당탕탕\자료구조 팀플\자료구조 팀플\main.cpp(299,1): warning C4715: 'delete_card_from_player': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  자료구조 팀플.vcxproj -> C:\Users\홍성호\Desktop\상상 창고\25년도_상반기_기획서\Project.c_C\함께해요_우당탕탕\자료구조 팀플\x64\Debug\자료구조 팀플.exe
